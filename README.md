@@ -8,5 +8,5 @@ For review and save purpose
 4. **Exercise 4** `Ex4.pdf` [***Details***](https://gaochenyin.github.io/Time-Series-Analysis/Ex4/Ex4.pdf)
 
 ## Midterm Content
-1. 'Summary.pdf'[***Details***](https://gaochenyin.github.io/Time-Series-Analysis/Project/Project%20Summary_%20Time%20Series.pdf)
-2. 'Presentation.pdf'[***Details***](https://gaochenyin.github.io/Time-Series-Analysis/Project/Project_Presentation_Time%20Series.pdf)
+1. `Summary.pdf` [***Details***](https://gaochenyin.github.io/Time-Series-Analysis/Project/Project%20Summary_%20Time%20Series.pdf)
+2. `Presentation.pdf` [***Details***](https://gaochenyin.github.io/Time-Series-Analysis/Project/Project_Presentation_Time%20Series.pdf)
